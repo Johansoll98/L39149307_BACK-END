@@ -1,7 +1,7 @@
 --------------------
 Database Configuration
 --------------------
-GITHUB eepository link
+GITHUB repository link https://github.com/Johansoll98/L39149307_BACK-END.git 
 Overview:
 This document provides instructions and details for configuring and running the project.
 --------------------
